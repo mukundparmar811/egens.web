@@ -1,0 +1,49 @@
+.br {border: 3px solid red;}
+.bk {border: 3px solid black;}
+.by {border: 3px solid gold;}
+.bg {border: 3px solid green;}
+.bb {border: 3px solid blue;}
+.bm {border: 3px solid magenta;}
+
+
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+.width{
+    width: 100%;
+}
+.w-60{
+    width: 60%;
+}
+
+.navbar{
+    padding: 0 100px;
+    height: 100px;
+}
+.collapse ul li{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.height{
+    height: 700px;
+}
+.h-700{
+    height: 700px;
+}
+.h-500{
+    height: 500px;
+}
+.first-con{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col-4{
+    height: 300px;
+}
